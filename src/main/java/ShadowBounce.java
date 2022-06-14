@@ -3,8 +3,7 @@
  * the player either progresses to next board when all red pegs are cleared
  * and finish if all red pegs on all boards are cleared
  * or end game if run out of shots
- * (some code might be similar to or same as the sample sol of project1 written by Eleanor McMurtry )
- */
+ *   */
 
 import bagel.*;
 import bagel.util.Point;
